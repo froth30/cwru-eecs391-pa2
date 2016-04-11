@@ -1,0 +1,7 @@
+/.idea
+/bin
+/out
+/saves
+/tests
+/*.iml
+/.DS_Store
